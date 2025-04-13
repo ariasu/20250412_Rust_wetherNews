@@ -12,7 +12,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
     let api_key = env::var("OPENWEATHER_API_KEY").expect("OPENWEATHER_API_KEY not set");
     
     // 都市名（東京）
-    let city = "Tokyo";
+    let city = "Fukuoka";
     
     // APIエンドポイント
     let url = format!(

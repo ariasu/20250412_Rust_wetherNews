@@ -1,0 +1,11 @@
+E:\Programing\20250412_Rust_wetherNews\target\debug\deps\libwriteable-7023128039000ba9.rmeta: C:\Users\staa2\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\writeable-0.5.5\src\lib.rs C:\Users\staa2\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\writeable-0.5.5\src\cmp.rs C:\Users\staa2\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\writeable-0.5.5\src\impls.rs C:\Users\staa2\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\writeable-0.5.5\src\ops.rs C:\Users\staa2\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\writeable-0.5.5\src\parts_write_adapter.rs C:\Users\staa2\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\writeable-0.5.5\src\testing.rs C:\Users\staa2\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\writeable-0.5.5\src\try_writeable.rs
+
+E:\Programing\20250412_Rust_wetherNews\target\debug\deps\writeable-7023128039000ba9.d: C:\Users\staa2\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\writeable-0.5.5\src\lib.rs C:\Users\staa2\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\writeable-0.5.5\src\cmp.rs C:\Users\staa2\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\writeable-0.5.5\src\impls.rs C:\Users\staa2\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\writeable-0.5.5\src\ops.rs C:\Users\staa2\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\writeable-0.5.5\src\parts_write_adapter.rs C:\Users\staa2\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\writeable-0.5.5\src\testing.rs C:\Users\staa2\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\writeable-0.5.5\src\try_writeable.rs
+
+C:\Users\staa2\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\writeable-0.5.5\src\lib.rs:
+C:\Users\staa2\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\writeable-0.5.5\src\cmp.rs:
+C:\Users\staa2\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\writeable-0.5.5\src\impls.rs:
+C:\Users\staa2\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\writeable-0.5.5\src\ops.rs:
+C:\Users\staa2\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\writeable-0.5.5\src\parts_write_adapter.rs:
+C:\Users\staa2\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\writeable-0.5.5\src\testing.rs:
+C:\Users\staa2\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\writeable-0.5.5\src\try_writeable.rs:
